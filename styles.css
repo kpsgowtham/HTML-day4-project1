@@ -1,0 +1,15 @@
+#flex-container{
+    display: flex;
+}
+
+#side{
+    flex: 60%;
+    background-color: blue;
+    align-items: center;
+}
+
+#main{
+    flex: 40%;
+    background-color:white;
+    color:black;
+}
